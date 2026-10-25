@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: flask
-          image: umerazizrana/devops-flask-app:build-8
+          image: umerazizrana/devops-flask-app:build-9
           ports:
             - name: http
               containerPort: 5001
